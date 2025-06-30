@@ -2,11 +2,11 @@
 
 This project implements **K-Means clustering** for customer segmentation and provides a visual dashboard using **Streamlit**. It is designed to help understand customer behavior based on their **age**, **annual income**, and **spending score**.
 
-## 📌 Objective
+## Objective
 
 To segment customers into distinct groups using unsupervised learning, helping businesses make informed decisions about targeted marketing strategies.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 project/
@@ -23,7 +23,7 @@ project/
 └── README.md                        # Project documentation
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -67,21 +67,21 @@ streamlit run dashboard.py
 
 Open the local URL provided by Streamlit to explore customer segments interactively.
 
-## 📊 Visualizations
+## Visualizations
 
 - **Elbow Method** to determine optimal k
 - **Scatter plots** of clusters
 - **Cluster-wise customer counts**
 - **Mean profiles of each cluster**
 
-## 🔍 Interpretation Logic
+## Interpretation Logic
 
 The model interprets each cluster based on patterns of income and spending, classifying them into types like:
 - Impulsive buyers
 - Careful spenders
 - Target customers
 
-## 📌 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -89,7 +89,7 @@ The model interprets each cluster based on patterns of income and spending, clas
 - Seaborn, Matplotlib
 - Streamlit
 
-## 👩‍💻 Author
+## Author
 
 **Narmadha**  
 Computer Science and Data Science Student  
