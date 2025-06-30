@@ -28,7 +28,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation-kmeans.git
+git clone https://github.com/RMN-20/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 ```
 
@@ -93,7 +93,7 @@ The model interprets each cluster based on patterns of income and spending, clas
 
 **Narmadha**  
 Computer Science and Data Science Student  
-[LinkedIn](www.linkedin.com/in/narmadha20)
+[LinkedIn](https://www.linkedin.com/in/narmadha20/)
 
 ---
 
